@@ -10,3 +10,7 @@ use this tool and access your passwords.
 Some usage of the CLI tool.
 
 /kentaur save instagram
+
+
+Useful sources:
+https://pkg.go.dev/golang.design/x/clipboard#section-readme
