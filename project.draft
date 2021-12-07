@@ -1,0 +1,12 @@
+This CLI Password Storage will store your passwords from your favorite sites securely.
+The encryption that will be used is RSA or AES, will be choosed in development.
+
+The passwords fill be stored in encrypted json file and there will be available 2 storage options
+Local and remote.
+
+Local storage will use an unique hash from the system and user and make sure that no one else can
+use this tool and access your passwords.
+
+Some usage of the CLI tool.
+
+/kentaur save instagram
